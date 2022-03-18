@@ -1,4 +1,12 @@
 coding two final project
+
+
+Code language: JavaScript
+
+
+Game Type: Interactive 2d Music Game
+
+
  
  
 Game rules: 
